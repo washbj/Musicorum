@@ -58,7 +58,7 @@ public class Home {
 	private void initialize() {
 		frmMusicorum = new JFrame();
 		frmMusicorum.setTitle("Musicorum");
-		frmMusicorum.setBounds(100, 100, 450, 300);
+		frmMusicorum.setBounds(100, 100, 700, 350);
 		frmMusicorum.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		JButton btnNewPlaylist = new JButton("New Playlist");
